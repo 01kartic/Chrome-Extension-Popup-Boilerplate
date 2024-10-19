@@ -6,6 +6,8 @@ This repo is for Chrome Extension Popup Boilerplate with **React**, **React-rout
 
 You can get more info at [developer.chrome.com](https://developer.chrome.com/docs/extensions).
 
+For sidepanel boilerplate visit [github.com/01kartic/Chrome-Extension-SidePanel-Boilerplate](https://github.com/01kartic/Chrome-Extension-SidePanel-Boilerplate)
+
 ### Installation
 
 1. **Clone the Repository**
