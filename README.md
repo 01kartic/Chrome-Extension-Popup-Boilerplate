@@ -1,12 +1,22 @@
 # Chrome Extension Popup Boilerplate
 
-This repo is for Chrome Extension Popup Boilerplate with **React**, **React-router** and **Tailwind CSS**.
+This repo is for Chrome Extension Popup Boilerplate.
 
-> `Manifest v3`: Built using Chrome's latest extension architecture.
+Made with 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+> `Manifest v3` : Built using Chrome's latest extension architecture.
 
 You can get more info at [developer.chrome.com](https://developer.chrome.com/docs/extensions).
 
-For sidepanel boilerplate visit [github.com/01kartic/Chrome-Extension-SidePanel-Boilerplate](https://github.com/01kartic/Chrome-Extension-SidePanel-Boilerplate)
+<br/>
+
+## For **Sidepanel boilerplate**
+Visit [github.com/01kartic/Chrome-Extension-SidePanel-Boilerplate](https://github.com/01kartic/Chrome-Extension-SidePanel-Boilerplate)
+
+<br/>
 
 ### Installation
 
@@ -40,5 +50,7 @@ For sidepanel boilerplate visit [github.com/01kartic/Chrome-Extension-SidePanel-
     npm run start
     ```
     The extension will be reloaded automatically as you make changes.
+
+<br/>
 
 > If found any issue write it down it `issue` or found useful then give star to it.
